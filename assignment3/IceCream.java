@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringJoiner;
 /**
- * A abstract base class for IceCream components (cones, scoops, toppings).
+ * A abstract base class for IceCream components (cones, scoops).
  * @author joseph groome
  */
 public abstract class IceCream {
